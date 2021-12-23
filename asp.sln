@@ -5,7 +5,6 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E198BD94-A235-4A27-9E57-863F2BC21FC8}"
 	ProjectSection(SolutionItems) = preProject
-		HTMLPage1.html = HTMLPage1.html
 		index.asp = index.asp
 	EndProjectSection
 EndProject
